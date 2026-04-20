@@ -9,7 +9,7 @@ I'm a student with a deep passion for building at the intersection of intelligen
 ![](https://streak-stats.demolab.com/?user=Saish-aher-28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saish-aher-28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
